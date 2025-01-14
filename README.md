@@ -92,7 +92,7 @@ An employee, John Doe, was solicited on WhatsApp by someone impersonating the CE
 ---
 
 ## Evidence and Findings
-- Various people search sites (any that had the individuals' information), specific Google queries, and general searches for any relevant articles.
+- Various people search sites (any that had the individuals' information), specific Google queries, and general searches for any relevant articles. https://haveibeenpwned.com/ used to check for the email compromise.
 - John Doe, Edward Lam, and Martha Carter had their emails compromised and appeared in three common data breaches:
   - **2019 (Feb):** Verifications.io breach
   - **2019 (Oct):** Data Enrichment Exposure from PDL Customer
