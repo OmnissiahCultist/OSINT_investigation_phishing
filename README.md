@@ -101,7 +101,7 @@ An employee, John Doe, was solicited on WhatsApp by someone impersonating the CE
 ---
 
 ## Conclusion
-The threat actors likely accessed leaked data to identify and target CompanyX specifically. The motivation for targeting CompanyX remains unclear, but the attackers demonstrated an understanding of CompanyX’s acquisition history and key personnel. The attackers’ tactics suggest a deliberate attempt to exploit public information, along with compromised emails, to build credibility and execute a convincing phishing attempt.
+The threat actors likely accessed leaked data to identify and target CompanyX specifically. The motivation for targeting CompanyX remains unclear, but the attackers demonstrated an understanding of CompanyX’s acquisition history and key personnel. The attackers’ tactics suggest a deliberate attempt to exploit public information, along with compromised emails, to build credibility and execute a convincing phishing attempt. This investigation highlights the importance of safeguarding personal information and regularly checking for exposure in known breaches. Companies should maintain awareness of their public profiles, potential adversaries, and conduct table top exercises to stay resilient.
 
 ---
 
@@ -114,7 +114,3 @@ The threat actors likely accessed leaked data to identify and target CompanyX sp
 
 3. **Provide training for employees on identifying spear-phishing attempts.**  
    Include practical exercises and case studies.
-
----
-
-This investigation highlights the importance of safeguarding personal information and regularly checking for exposure in known breaches. Companies should maintain awareness of their public profiles and potential adversaries. Additionally, companies should conduct tabletop exercises to ensure their incident response strategies align with their security posture in the face of cyberattacks.
